@@ -11,6 +11,6 @@ $ git config --global user.name
 首先在官网注册账号：https://github.com/
 接着创建自己的仓库(repository): https://docs.github.com/zh/get-started/quickstart/create-a-repo
 为了保存进度，我们在可以利用branch来保存各个阶段的更新：
-在上方小箭头处下拉，可从当前分支搜索或创建新分支。对内容进行更改后，在"Pull requests"处点击绿色按钮"new pull request"
+在上方小箭头处下拉，可从当前分支搜索或创建新分支。对内容进行更改后，在"Pull requests"处点击绿色按钮"new pull request".
 
 ![image](https://user-images.githubusercontent.com/121569054/209863485-3030079d-c5af-43e2-8b69-742a9f69280f.png)
